@@ -14,8 +14,13 @@ To prepare a list of technicals (included in the appendix as separate functions)
 
 # Procedure:
 The following blocks deal with each of these steps in a separate subroutine:
+
 • The first step (not included here) is to import monthly price data from Yahoo (done using an R code, courtesy Ms. Zoey Zheng).
+
 • Reading the csv data file of monthly returns
+
 • Assigning training as well as testing periods
+
 • Building up training and testing matrices based on chosen technicals
+
 • Generating the relevant plots.
