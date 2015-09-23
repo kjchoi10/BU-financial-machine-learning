@@ -1,8 +1,9 @@
 # Boston Univeristy Financial Machine Learning Research
+Predicting the S&amp;P 500 stock market prices using machine learning algorithms and techniques.
+
 by Rashi Verma, Zoey Zhang, Giang Qiao, and Kevin Choi
 with faculty advisor Mark Kon
 
-Predicting the S&amp;P 500 stock market prices using machine learning algorithms and techniques.
 
 # Primary Goal: 
 
